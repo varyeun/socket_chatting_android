@@ -13,5 +13,4 @@ client_android : 안드로이드 스튜디오에서 돌아가는 클라이언트
 
 Screenshots
 ---------------
-<img width="204" alt="a" src="https://user-images.githubusercontent.com/34153411/87003063-e157d700-c1f5-11ea-8133-86535e309098.PNG">
-<img width="204" alt="b" src="https://user-images.githubusercontent.com/34153411/87003081-e87ee500-c1f5-11ea-99b2-edd50afd523d.PNG">
+<img width="204" alt="a" src="https://user-images.githubusercontent.com/34153411/87003063-e157d700-c1f5-11ea-8133-86535e309098.PNG"><img width="204" alt="b" src="https://user-images.githubusercontent.com/34153411/87003081-e87ee500-c1f5-11ea-99b2-edd50afd523d.PNG">
